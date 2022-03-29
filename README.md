@@ -28,6 +28,7 @@
   
  
   ![Snake animation](https://github.com/Daniel-Lourenco/Daniel-Lourenco/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
   
