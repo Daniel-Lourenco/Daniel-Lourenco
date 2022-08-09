@@ -1,7 +1,6 @@
 ### Hi there, I'm Daniel Lourenço 👋 
 
-- 🌱 I’m currently learning Kotlin & Java
-- 💼 I'm looking for an internship opportunity
+- 🌱 I’m currently learning Android Development!
 
 <div align="center">
   <a href="https://github.com/Daniel-Lourenco">
